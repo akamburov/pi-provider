@@ -1,6 +1,6 @@
 {
-  "checked": "2026-10-24",
-  "sources": ["https://docs.munito.ai/models", "https://docs.munito.ai/reasoning", "https://docs.munito.ai/pricing.md"],
+  "checked": "2026-11-09",
+  "sources": ["https://docs.munito.ai/models", "https://docs.munito.ai/reasoning", "https://docs.munito.ai/pricing"],
   "providers": {
     "munito": { "name": "Munito AI", "baseUrl": "https://api.munito.ai/inference/v1" },
     "munito-eu": { "name": "Munito AI (EU)", "baseUrl": "https://api.eu.munito.ai/inference/v1" }
