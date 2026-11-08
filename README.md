@@ -30,7 +30,7 @@ Both use the same key.
 |---|---|---|
 | `zai-org/glm-5.3-flash` | 1,048,576 | Text, images |
 | `deepseek-ai/deepseek-v4-flash` | 1,048,576 | Text |
-| `deepseek-ai/deepseek-v4.1-flash-1017` (preview, `munito` only) | 1,048,576 | Text, images |
+| `deepseek-ai/deepseek-v4.1-flash-1017` (preview) | 1,048,576 | Text, images |
 | `qwen/qwen3.8-27b` | 262,144 | Text, images |
 | `aleph-alpha/kolibri-1` | 1,048,576 | Text |
 
